@@ -87,6 +87,7 @@
   width: 300px; 
   height: 200px; 
   background-color: green; 
+  
  
   
 } 
@@ -95,6 +96,8 @@
   width: 300px; 
   height: 200px; 
   background-color: gold;
+  margin-left: -300px;
+  
   
 } 
 .blue3 {
