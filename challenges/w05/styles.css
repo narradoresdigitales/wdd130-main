@@ -1,0 +1,27 @@
+.graphics_display {
+    background-color: gray;
+}
+
+body {
+    background-color: rgb(102, 100, 100);
+}
+#hero-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.bottom-images {
+    display: inline-block;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: rgb(73, 70, 70);
+    border-width: 10px;
+    width: 20%;
+    margin-top: 50px;
+    margin-right: 50px;
+    
+}
+#desk {
+    margin-left: 100px;
+}

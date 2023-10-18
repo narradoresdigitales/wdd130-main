@@ -1,0 +1,54 @@
+h1:hover {
+    color:black;
+    
+}
+
+body {
+    background-color: rgb(255, 171, 184);
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+h1.quote2 {
+    color: white;
+    font-size: 25px;
+}
+.quote {
+    color: white;
+    font-size: 10px ;
+}
+
+header {
+    align: center;
+
+}
+
+img {
+    width: 15%;
+    display: block;
+    margin: 0 auto;
+}
+
+.space {
+    margin-top: .75em;
+    margin-bottom: .75em;
+}
+
+.center-list {
+    display: inline-block;
+    text-align: left;
+    list-style-position: inside;
+    font-weight: bold;
+    font-size: 12px;
+    }
+
+.quote2 {
+    font-size: 30px;
+}
+
+footer {
+    font-size: 10px;
+}

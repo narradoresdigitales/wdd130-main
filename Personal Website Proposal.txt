@@ -1,0 +1,2 @@
+I would like to build a portfolio website to show future employers.From the homepage, user will be able to click on my cv page, projects page, and contact me.
+

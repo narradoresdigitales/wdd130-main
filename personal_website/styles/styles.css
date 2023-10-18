@@ -1,0 +1,127 @@
+/* I think I can use this for all <a> */ 
+a {
+    color: white;
+    border: 5px solid rgb(102, 201, 117) ;
+}
+/* I need to review this! */ 
+.left-middle a {
+    color: white; 
+}
+/* I do not think that this is relevant since I have the background. */ 
+
+body {
+    background-color: black;
+    color: white
+}
+/* This sets background to fill the screen.*/ 
+img {
+    width: 100%;
+}
+/* I need to review this! */ 
+.background_cv img {
+    width: 100%;
+
+}
+/* this should affect all pages */ 
+.container {
+    position: relative;
+    text-align: center;
+    
+}
+/* I need to review this! */ 
+.cv img {
+    width: 100%;
+}
+/* homepage div positioning */ 
+.msg_div {
+    position: absolute;
+    top: 350px;
+    left: 100px;
+}
+.msg1_div {
+    position: absolute;
+    top: 500px;
+    right: 16px;
+}
+.msg2_div {
+    position: absolute;
+    top: 700px;
+    left: 100px;
+}
+.cv_div  {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.project_div {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.site_div {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+/* cv page div positioning */ 
+.center {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+.left-middle {
+    position: absolute;
+    top: 575px;
+    left: 710px;
+}
+
+.left-bottom {
+    position: absolute;
+    top: 800px;
+    left: 150px;
+}
+
+.right-middle {
+    position: absolute;
+    top: 800px;
+    right: 300px;
+}
+
+
+.right-bottom {
+    position: absolute;
+    top: 800px;
+    right: 500px;
+}
+
+
+footer {
+    color: white;
+    text-align: center;
+
+}
+
+.contact {
+    color: white;
+}

@@ -1,0 +1,167 @@
+17oct
+cont. wk06 challenge
+cont. wk06 CSS positioning assignment
+
+
+16oct
+-started 06 CSS positioning assignment
+
+12oct
+continue 06challenge
+update personal webpage
+
+11oct
+continue 06challenge
+
+10oct
+begin 06 challenge
+
+
+09oct
+
+repeat(5, 1fr)
+fr gives fractional space and is responsive
+
+style {
+	display: grid;
+	grid-template-columns: valuepx valuepx	valuepx;
+	grid-gap: valuepx;
+
+
+	grid-column-start: 1;
+	grid-column-end: 3;
+	
+	or grid-column: 1/3
+	   grid-row: 1/2
+
+	z-index: 1; 
+	align-self: center;
+}
+
+-prepared/submitted personal website plan
+-reviewed/submitted w5 assignent
+
+07oct
+-completed: w5 assignment: css-fonts&spacing
+
+
+27sept
+review Box Model
+review w05 challenge
+review, siteplan personal site 
+
+
+26sept
+started: plan personal site
+!-->
+3. A Junior Web Developer Resume Example
+Mark Nelson
+
+Junior Front-End Web Developer
+
+A web developer with a passion for UX/UI and artificial intelligence. Proficient in HTML, CSS3, JavaScript, and React. 
+Looking for an opportunity to hone my front-end skills and pave my career path in full-stack development.
+
+mark.nelson@email.com
+
+mark-nelson.com
+
+321-614-7721
+
+Orlando, FL
+
+Experience
+
+Front-End Developer Intern
+
+Checkr, FL
+
+September 2022 – present
+
+Conducted user testing on clients’ CRM systems to optimize the user interface for scalability.
+Designed and implemented landing pages for lead generation.
+Improve website applications’ accessibility by developing responsive designs.
+Education
+
+Bachelor’s Degree in Computer Science
+
+University of Central Florida, FL
+
+September 2018 – June 2022
+
+Studied computer systems and networks, database management systems, programming languages, artificial intelligence, and software development.
+GPA 3.79
+Developing Front-End Apps with React
+
+IBM via Coursera
+
+August 2022
+
+Developed interactive user interfaces with React, JSX, and ES6.
+Learned how to build dynamic websites and front-end applications with reusable React components.
+Skills
+
+Programming languages
+UI/UX
+SEO
+CRM (HubSpot and Zoho)
+WordPress
+Analytical thinking
+Problem-solving
+Teamwork
+Activities
+
+
+
+
+-->
+
+
+
+
+25sept
+studied Box Model
+began w05 challenge
+
+23 sept
+submitted w04 Adding More HTML and CSS
+
+22 sept
+completed: w04 assignment: More HTML and CSS / need to review and submit
+
+
+
+21 sept
+begin week 4 study
+completed: into
+completed: w04 quiz
+completed: units of measurement
+completed: block vs. inline
+completed: css selectors practice
+completed: w04 challenge
+
+
+20 sept
+completed week 3 assignments
+
+19 sept
+*begin week 3
+
+18 sept
+/reviewed msteams/messaged zed
+/updated css palette
+/pushed updates to git hub
+/performed final review for submission
+
+
+16 sept
+Continue with "Creating a site plan" activity.
+08 Record the color codes
+
+
+
+COLORS
+
+contrast.ratio.com
+colors.adobe.com
+colors.co
