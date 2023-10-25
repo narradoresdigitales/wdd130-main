@@ -1,3 +1,11 @@
+26oct
+-cont. "Layout the Home Page"
+05 Main Grid
+
+25 oct
+-began "Layout the Home Page"
+01-03 complete
+
 17oct
 cont. wk06 challenge
 cont. wk06 CSS positioning assignment
