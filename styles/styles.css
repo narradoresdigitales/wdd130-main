@@ -1,7 +1,20 @@
+h1 {
+    background-color: rgb(119, 212, 119);
+    text-align: center;
+}
+
+nav {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    background-color: goldenrod;
+    padding: 25px;
+    gap: 20px;
+    font-size: 25px;
+    
+}
 #background {
     display: grid;
 }
-
 .forest {
     width: 100%;
 }
