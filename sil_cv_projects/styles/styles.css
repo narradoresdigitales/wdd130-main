@@ -1,38 +1,60 @@
+.container {
+    display: grid;
+}
+nav{
+    display: grid;
+    grid-template-columns: 150px aut0;
+    padding: 10px;
+    text-align: center;
+    gap: 10px;
+}
+.forest {
+    display: grid;
+}
+.image1 {
+    width: 100%;
+    height: 100px;
+}    
+
+
+
 /* I think I can use this for all <a> */ 
+
+/*
 a {
     color: white;
     border: 5px solid rgb(102, 201, 117) ;
 }
-/* I need to review this! */ 
+/* I need to review this! 
 .left-middle a {
     color: white; 
 }
-/* I do not think that this is relevant since I have the background. */ 
+/* I do not think that this is relevant since I have the background. 
 
 body {
     background-color: black;
     color: white
 }
-/* This sets background to fill the screen.*/ 
+/* This sets background to fill the screen.
 img {
     width: 100%;
 }
-/* I need to review this! */ 
+/* I need to review this! 
 .background_cv img {
     width: 100%;
 
 }
-/* this should affect all pages */ 
+/* this should affect all pages 
 .container {
     position: relative;
     text-align: center;
     
 }
-/* I need to review this! */ 
+/* I need to review this! 
 .cv img {
     width: 100%;
 }
-/* homepage div positioning */ 
+/* homepage div positioning 
 .msg_div {
     position: absolute;
     top: 350px;
@@ -69,7 +91,7 @@ img {
 
 
 
-/* cv page div positioning */ 
+/* cv page div positioning 
 .center {
     position: absolute;
     top: 20%;
@@ -125,3 +147,5 @@ footer {
 .contact {
     color: white;
 }
+
+*/
