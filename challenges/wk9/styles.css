@@ -1,0 +1,30 @@
+.screen {
+    background-color: black;
+}
+.img{
+    width: 50%;
+}
+.container {
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+.container .p1 {
+    color: rgb(78, 78, 205);
+    grid-row: 2/3;
+}
+.footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    color: white;
+    background-color: rgb(78, 78, 205);
+}
+.footer .p3 {
+    grid-column: 1/2;
+}
+.footer .p4 {
+    grid-column: 3/4;
+}
+.footer .p5 {
+    grid-column: 5/6;
+}
