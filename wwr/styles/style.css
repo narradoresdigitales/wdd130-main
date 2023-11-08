@@ -1,5 +1,34 @@
 @import url('https://fonts.googleapis.com/css2?family=Fuggles&family=Playfair+Display&display=swap');
 
+/*Rivers.html */ 
+.salmon-river-card, .desolation-gray-canyon-utah, .grand-canyon-arizona {
+    border: 5px solid; 
+    width: 450px;
+    margin: 200px 0;
+    padding: 35px;
+    font-size: 21px;
+}
+.salmon-river-card, .desolation-gray-canyon-utah, .grand-canyon-arizona, h1 {
+    text-align: center;
+}
+.salmon-river-card, .desolation-gray-canyon-utah, .grand-canyon-arizona, p {
+    text-align: justify;
+}
+.salmon-river-card .reminder-rapids {
+    text-align: center;
+    font-weight:bold;
+}
+.desolation-gray-canyon-utah .recognized {
+    text-align: center;
+    font-weight:bold;
+}
+.grand-canyon-arizona .grand-canyon {
+    text-align: center;
+    font-weight:bold;
+}
+
+
+
 .home-title {
     font-family:'Fuggles', 'Playfair Display', Helvetica;
     font-size: 2em;
@@ -9,7 +38,7 @@
 body {
     background-color:#F5EBE0;
     color:#a85423; 
-    font-family: 'Fuggles', 'Playfair Display', Helvetica; 
+    font-family: 'Playfair Display', Helvetica; 
     font-size: 22px;
     margin: 0;
     padding: 0;
@@ -56,7 +85,7 @@ nav {
 #hero-msg h1, #hero-msg h2, #hero-msg h4  {
     text-align: center;
 }   
-/*review margins */ 
+
 .rivers-card, .camping-card, .rapids-card {
     margin: 200px 0;
 }
@@ -212,6 +241,19 @@ h4 {
     color:#a85423; 
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
@@ -237,6 +279,8 @@ h4 {
         font-size: 25px;
         color: #6f7364;
     }
+   
+    }
     .rivers-card, .camping-card, .rapids-card { 
         margin: 50px auto;
         width: 60%;
@@ -252,4 +296,3 @@ h4 {
     footer {
         margin-top: 25px;
     }
-}
