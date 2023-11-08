@@ -1,8 +1,19 @@
 .screen {
     background-color: black;
+
+    
 }
-.img{
-    width: 50%;
+.card {
+    width: 300px;
+    margin-left: 350px;
+    
+    
+}
+.img {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 .container {
     background-color: white;
@@ -10,21 +21,46 @@
     text-align: center;
 }
 .container .p1 {
-    color: rgb(78, 78, 205);
+    color: rgb(98, 98, 213);
     grid-row: 2/3;
+    margin-top: -5px;
 }
 .footer {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     color: white;
-    background-color: rgb(78, 78, 205);
+    background-color: rgb(116, 116, 228);
+    width: 300px;
+    margin-left: 350px;
+    font-family: "Trebuchet MS,'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;";
+    font-size: 18px;
+    margin-top: -18px;
+}
+.footer .p2 {
+    text-align: center;
+    
+
 }
 .footer .p3 {
     grid-column: 1/2;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    border-right: 1px solid white;
+}
+sup {
+    vertical-align: super;
+    font-size: smaller;
 }
 .footer .p4 {
     grid-column: 3/4;
+    border-right: 1px solid white;
+    margin-left: -20px;
+ 
 }
 .footer .p5 {
     grid-column: 5/6;
+    padding-right: 30px;
+    padding-left: 10px;
+    text-align: center;
 }
