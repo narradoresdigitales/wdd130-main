@@ -1,32 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Fuggles&family=Playfair+Display&display=swap');
 
 /*Rivers.html */ 
-.salmon-river-card, .desolation-gray-canyon-utah, .grand-canyon-arizona {
-    border: 5px solid; 
-    width: 450px;
-    margin: 200px 0;
-    padding: 35px;
-    font-size: 21px;
-}
-.salmon-river-card, .desolation-gray-canyon-utah, .grand-canyon-arizona, h1 {
-    text-align: center;
-}
-.salmon-river-card, .desolation-gray-canyon-utah, .grand-canyon-arizona, p {
-    text-align: justify;
-}
-.salmon-river-card .reminder-rapids {
-    text-align: center;
-    font-weight:bold;
-}
-.desolation-gray-canyon-utah .recognized {
-    text-align: center;
-    font-weight:bold;
-}
-.grand-canyon-arizona .grand-canyon {
-    text-align: center;
-    font-weight:bold;
-}
 
+
+/*Rivers.html */ 
 .home-title {
     font-family:'Fuggles', 'Playfair Display', Helvetica;
     font-size: 2em;
@@ -242,20 +219,33 @@ h4 {
 /*Rivers.html */ 
 
 
-
-
-
-
-
+.salmon-river-card, .desolation-gray-canyon-utah, .grand-canyon-arizona {
+    border: 5px solid; 
+    width: 450px;
+    margin: 200px 0;
+    padding: 35px;
+    font-size: 21px;
+}
+.salmon-river-card, .desolation-gray-canyon-utah, .grand-canyon-arizona, h1 {
+    text-align: center;
+}
+.salmon-river-card, .desolation-gray-canyon-utah, .grand-canyon-arizona, p {
+    text-align: justify;
+}
+.salmon-river-card .reminder-rapids {
+    text-align: center;
+    font-weight:bold;
+}
+.desolation-gray-canyon-utah .recognized {
+    text-align: center;
+    font-weight:bold;
+}
+.grand-canyon-arizona .grand-canyon {
+    text-align: center;
+    font-weight:bold;
+}
 
 /*Rivers.html */ 
-
-
-
-
-
-
-
 
 
 

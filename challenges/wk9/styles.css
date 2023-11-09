@@ -1,19 +1,14 @@
 .screen {
-    background-color: black;
-
-    
+    background-color: black;   
 }
 .card {
     width: 300px;
     margin-left: 350px;
-    
-    
 }
 .img {
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
-    
 }
 .container {
     background-color: white;
@@ -38,7 +33,6 @@
 }
 .footer .p2 {
     text-align: center;
-    
 
 }
 .footer .p3 {
