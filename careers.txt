@@ -1,0 +1,9 @@
+
+
+Upon reading about the careers in web design and development, I was able to make connections between job titles. For example, I have learned that a 'Web Applications Developer' is equivalent to a'Front End Developer. Similary, a 'Web Software Developer' performs the tasks assigned to a 'Full Stack Developer.' I was not too surprised by compensation for these positions. The average salary for a beginner Web Applications or Front End Developer is $68,162 with compensation increasing to an average of $126,330 with seven years plus years of experience. Web Software or Full Stack Developers can expect higher earning potential with the average salary of $74,913 for a Web Software Developer I with an increase to position is $129,498 with seven plus years experience.  
+
+This course has provided instruction to build and style pages using HTML, CSS, and how to design them using web tools to select color and font patterns, format images, and craft wireframes. I found that styling web pages requires more time than building out the web elements. From my view, the the overall value of a web page is its user-appeal and functionality. From this lens, CSS and UI/UI design are crucial, in addition to the required scripts (JavaScript) to make the page actually do something like responde to user-input to interface with the owner of the page.   
+
+My goal is to complete the Web and Computer Programming certificate in December 2024, and the Web Development certificate in July 2025. Before completing my second certificate, my intention is to look for my first job as a developer and complete the Software Development certificate and degree requirements. 
+
+(word count 270) 
