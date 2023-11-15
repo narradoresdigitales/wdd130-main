@@ -17,6 +17,7 @@ nav{
     justify-content: space-around;
     background-color: rgb(142, 137, 137);
     padding: 75px;
+    font-size: 30px;
     
 }
 #logo_link {
@@ -45,11 +46,9 @@ nav{
     margin-top: 55px;
     margin-left: 350px;
     width: 100%;
-   
 }
 .home-img2 {
     grid-column: 1/2;
-    
 }
 .home-text2 {
     grid-row: 2/3;
@@ -71,134 +70,45 @@ footer a {
 footer img {
     width: 80px;
 }
-/* I think I can use this for all <a> */ 
 
-/*
-a {
-    color: white;
-    border: 5px solid rgb(102, 201, 117) ;
-}
-/* I need to review this! 
-.left-middle a {
-    color: white; 
-}
-/* I do not think that this is relevant since I have the background. 
+/* Education & Professional Experience */ 
 
-body {
+.edu_exp_text1  {
+    text-align: justify;
+}
+.edu_exp_text1 h1, h2  {
     background-color: black;
-    color: white
-}
-/* This sets background to fill the screen.
-img {
-    width: 100%;
-}
-/* I need to review this! 
-.background_cv img {
-    width: 100%;
-
-}
-/* this should affect all pages 
-.container {
-    position: relative;
+    font:white;
     text-align: center;
+    color: white;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
     
 }
-/* I need to review this! 
-.cv img {
-    width: 100%;
-}
-/* homepage div positioning 
-.msg_div {
-    position: absolute;
-    top: 350px;
-    left: 100px;
-}
-.msg1_div {
-    position: absolute;
-    top: 500px;
-    right: 16px;
-}
-.msg2_div {
-    position: absolute;
-    top: 700px;
-    left: 100px;
-}
-.cv_div  {
-    position: absolute;
-    top: 20%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-.project_div {
-    position: absolute;
-    top: 30%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-.site_div {
-    position: absolute;
-    top: 40%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-
-
-/* cv page div positioning 
-.center {
-    position: absolute;
-    top: 20%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-.top-left {
-    position: absolute;
-    top: 8px;
-    left: 16px;
-}
-
-
-.top-right {
-    position: absolute;
-    top: 8px;
-    right: 16px;
-}
-
-.left-middle {
-    position: absolute;
-    top: 575px;
-    left: 710px;
-}
-
-.left-bottom {
-    position: absolute;
-    top: 800px;
-    left: 150px;
-}
-
-.right-middle {
-    position: absolute;
-    top: 800px;
-    right: 300px;
-}
-
-
-.right-bottom {
-    position: absolute;
-    top: 800px;
-    right: 500px;
-}
-
-
-footer {
-    color: white;
+.edu_exp_text1 .summary, h3 {
+    margin-left: 35px;
     text-align: center;
-
 }
-
-.contact {
+.edu_exp_img1 {
+    margin-top: 25px;
+    margin-left: 100px;
+    
+}
+.edu_exp_img2 {
+    grid-column: 1/2;
+}
+.edu_exp_text2 {
+    grid-row: 1/2;
+    grid-column: 3/4;
+    margin-left: -900px;
+}
+.edu_exp_img1 h2 {
+    background-color: black;
+    width: 75%;
+    text-align: center;
     color: white;
+    margin-left: 70px;
+    border-radius: 10px;
 }
-
-*/
+/* Deploying Artificial Intelligence */
