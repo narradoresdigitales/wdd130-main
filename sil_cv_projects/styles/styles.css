@@ -1,18 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Ubuntu+Mono&family=Ubuntu:wght@300&display=swap');
+
 #content {
-    font-size: 20px;
-    
+    font-size: 22px;
+    font-family: Roboto;
 }
 
 header{
     display: grid;
     grid-template-columns: 150px auto;
     background-color: rgb(142, 137, 137);
+    font-family: Ubuntu;
 }
 nav{
     display: flex;
     justify-content: space-around;
     background-color: rgb(142, 137, 137);
     padding: 75px;
+    
 }
 #logo_link {
     padding-top: 5px;
@@ -32,14 +37,40 @@ nav{
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
 }
+.home-text1 {
+    margin-left: 15px;
+    margin-top: 35px;
+}
+.home-img1 {
+    margin-top: 55px;
+    margin-left: 350px;
+    width: 100%;
+   
+}
 .home-img2 {
     grid-column: 1/2;
+    
 }
 .home-text2 {
     grid-row: 2/3;
     grid-column: 3/4;
+    margin-left: -900px;
 }
-
+footer {
+    background-color:  rgb(142, 137, 137);
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    font-family: Ubuntu;
+    font-size: 22px;
+    margin-top: 35px;
+}
+footer a {
+    padding: 10px;
+}
+footer img {
+    width: 80px;
+}
 /* I think I can use this for all <a> */ 
 
 /*
