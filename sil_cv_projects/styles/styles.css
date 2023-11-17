@@ -40,23 +40,36 @@ nav{
     grid-template-rows: 1fr 1fr;
     
 }
-.home-text1 .welcome {
+.home_text1 #welcome, #my_vision, #my_projects {
+    font-family: Ubuntu;
     margin-left: 15px;
-    margin-top: 35px;
-    border-right: inset;
 }
-.home-img1 {
-    margin-top: 55px;
-    margin-left: 350px;
-    width: 100%;
+.home_text1 p {
+    margin-left: 0px;
+    border-style: inset;
+    text-align: justify;
+    padding: 25px 50px;
 }
-.home-img2 {
-    grid-column: 1/2;
+.home_text1 .html {
+    margin-left:255px;
+    margin-right: 75px;
+    width: 10%;
 }
-.home-text2 {
-    grid-row: 2/3;
-    grid-column: 3/4;
-    margin-left: -900px;
+.home_text1 .html, .python {
+    margin-right: 75px;
+    width: 10%;
+}
+.home_text1 .css {
+    width:8%;
+}
+.home_text1 .javascript {
+    width:17%;
+}
+.home_img1 #home_img1{
+    width:75%;
+    margin-top: 150px;
+    margin-left: 150px;
+    border-radius: 10px;
 }
 footer {
     background-color:  rgb(142, 137, 137);
@@ -65,7 +78,7 @@ footer {
     padding: 20px;
     font-family: Ubuntu;
     font-size: 22px;
-    margin-top: 35px;
+    margin-top: -905px;
 }
 footer a {
     padding: 10px;
@@ -175,6 +188,17 @@ footer img {
 .edu_exp {
     margin-top:-2000px;
 }
+
+
+
+/*  */ 
+/*  */ 
+/*  */ 
+/*  */ 
+/* Deploying Artificial Intelligence */
+
+
+
 
 
 
