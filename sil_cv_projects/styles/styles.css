@@ -11,6 +11,7 @@ header{
     grid-template-columns: 150px auto;
     background-color: rgb(142, 137, 137);
     font-family: Ubuntu;
+    border-radius: 10px;
 }
 nav{
     display: flex;
@@ -37,10 +38,12 @@ nav{
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
+    
 }
-.home-text1 {
+.home-text1 .welcome {
     margin-left: 15px;
     margin-top: 35px;
+    border-right: inset;
 }
 .home-img1 {
     margin-top: 55px;
@@ -76,47 +79,105 @@ footer img {
 /*  */ 
 /*  */ 
 /*  */ 
+#edu_exp_grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
 .edu_exp_text1  {
     text-align: justify;
 }
-.edu_exp_text1 .summary {
-    margin-bottom: 50px;
+.edu_exp_text1 {
+    font-family: Ubuntu;
 }
-.edu_exp_text1 h1, h2  {
-    background-color: black;
+.edu_exp_text1 .summary {
+    margin-top: 75px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    border-style: inset;
+}
+.edu_exp_text1 .tamusa, .trans, .caci {
+    border-style: inset;
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+} 
+.edu_exp_text1 h2  {
+    background-color: rgb(142, 137, 137);
     font:white;
     text-align: center;
     color: white;
-    width: 90%;
-    margin-left: auto;
-    margin-right: auto;
-    
+    width: 50%;
+    margin-left: 300px;
+    margin-top: 40px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.edu_exp_text1 h3 {
+    margin-top: 20px;
 }
 .edu_exp_text1 .summary, h3 {
-    margin-left: 35px;
+    margin-left: 5px;
     text-align: center;
 }
+.edu_exp_text1 ul {
+    margin-left: 25px;
+}
+
 .edu_exp_img1 {
-    margin-top: 25px;
-    margin-left: 100px;
+    margin-top: 45px;
+    margin-left: 150px;
     
 }
-.edu_exp_img2 {
-    grid-column: 1/2;
+.edu_exp_img1 #edu_exp_img {
+    width: 1000px;
 }
+
 .edu_exp_text2 {
     grid-row: 1/2;
     grid-column: 3/4;
     margin-left: -900px;
 }
 .edu_exp_img1 h2 {
-    background-color: black;
+    background-color: rgb(142, 137, 137);
     width: 75%;
     text-align: center;
     color: white;
-    margin-left: 70px;
+    margin-left: 100px;
     border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
+.edu_exp_img1 ul {
+    margin-left: 100px;
+}
+
+.edu_exp_img1 .alma_mater {
+    margin-top: 125px;
+   
+}
+.weber {
+    margin-left: 100px;
+    border-radius: 15px;
+    padding-right: 15px;
+}
+.nevada {
+    padding-right: 15px;
+}
+.bottom-banner {
+    background-color: black;
+    height: 100px
+    
+}
+
+.edu_exp {
+    margin-top:-2000px;
+}
+
+
+
 /*  */ 
 /*  */ 
 /*  */ 
