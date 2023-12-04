@@ -211,6 +211,10 @@ footer img {
     padding-bottom: 20px;
     text-align: left;
 }
+.button{
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
 #goal {
     font-family: Ubuntu;
     margin-left: -225px;
@@ -318,6 +322,30 @@ footer img {
 }
 #sil-projects {
     margin-top: -2500px;
+}
+#button_projects {
+    width: 1000px;
+    text-align: center;
+    
+}
+#goal {
+    font-family: Ubuntu;
+    margin-left: 10px;
+}
+.button_projects {
+    background-color: rgb(142, 137, 137);
+    font:white;
+    font-size: 22px;
+    font-family: Roboto;
+    line-height: 1.6;
+    color: white;
+    width: 70%;
+    margin-left: -85px;
+    margin-top: 70px;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
 }
 /*  */ 
 /*  */ 
